@@ -4,3 +4,5 @@ node_modules
 # rest
 .idea
 .vscode
+# env
+.env
